@@ -1,1 +1,2 @@
-Hello message
+Hello message has been edited
+Also added a new line here
